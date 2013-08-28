@@ -1,4 +1,6 @@
 package pl.maro.Mockito.first;
+
+
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Matchers.anyInt;
 import static org.mockito.Matchers.argThat;
